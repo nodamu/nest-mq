@@ -26,7 +26,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Sample demo for event pattern in microservices with nest js
 
 ## Installation
 
